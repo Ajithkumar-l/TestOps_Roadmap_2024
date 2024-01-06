@@ -1,0 +1,52 @@
+RoadMap for TestOps year 2024:
+
+1. **Version Control System: Git**
+   - Learn the basics of Git, including branches, commits, merges, and pull requests.
+   - Understand Git workflows and best practices.
+
+2. **Code Hosting: GitHub or GitLab**
+   - Choose either GitHub or GitLab as your code hosting platform.
+   - Explore repository management, issue tracking, and collaboration features.
+
+3. **CI/CD: GitHub Actions**
+   - Implement continuous integration and delivery using GitHub Actions.
+   - Set up workflows for building, testing, and deploying applications.
+
+4. **Programming Language: JavaScript with Node.js**
+   - Learn JavaScript fundamentals.
+   - Explore Node.js for server-side development and build automation.
+
+5. **Database: SQL and NoSQL**
+   - Gain knowledge in both SQL and NoSQL databases.
+   - Understand database design principles and query languages.
+
+6. **Test Automation Tools: Cypress, Protractor, WebdriverIO, Appium, Postman**
+   - Master Cypress and Protractor for web application testing.
+   - Explore WebdriverIO for broader web automation.
+   - Learn Appium for mobile application testing.
+   - Utilize Postman for API testing.
+   - Learn Performance testing in K6
+   - Learn Katalon studio Tool for Automation Testing.
+
+7. **Operating System: Linux Server and Configuration**
+   - Acquire proficiency in Linux server administration.
+   - Learn shell commands and scripting for automation.
+
+8. **Scripting Language: Bash Scripting**
+   - Master Bash scripting for automation and system tasks.
+   - Understand shell scripting best practices.
+
+9. **Containerization: Docker, Kubernetes**
+   - Learn Docker for containerization.
+   - Understand Kubernetes for container orchestration.
+
+10. **Cloud Hosting: AWS and GCP**
+    - Gain hands-on experience with AWS services like EC2, S3, Lambda, etc.
+    - Explore Google Cloud Platform (GCP) services for cloud hosting.
+
+11. **Configuration Management Tool: Terraform and Ansible**
+    - Learn Terraform for infrastructure as code.
+    - Explore Ansible for configuration management and automation.
+    
+12. **Manual Testing : Basic-manual-testing-concepts 
+    - Must need some basic concepts.
